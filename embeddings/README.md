@@ -1,0 +1,6 @@
+
+These are sample knowledge bases that can be questioned in the "Knowledge Chat" tab of the Haiven UI, and also pulled into chat conversations as additional resources.
+
+For this to work in the application, you need to run Haiven with access to the embeddings model that created these, so that the user's questions can be matched. The markdown files mention the "provider" used to create the embeddings, you'll find the corresponding embeddings model in [Haiven's `config.yaml`](https://github.com/tw-haiven/haiven/blob/main/app/config.yaml).
+
+Note that the Retrieval-Augmented Generation (RAG) implementation in Haiven is VERY basic, as everything happens in memory only. We currently prioritise simple deployment over sophisticated RAG. We want it to be "just good enough" to give experimenters an indication of the potential. If you like the Haiven sandbox as a starting point, but would like more powerful RAG capabilities, you would have to change the [Haiven code](https://github.com/tw-haiven) to connect to a proper information retrieval setup, like e.g. one of the big cloud providers' AI studios. 
