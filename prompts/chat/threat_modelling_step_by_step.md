@@ -3,7 +3,7 @@ identifier: threat-modelling-in-steps-da5bc93c
 title: "Threat modelling scenarios - step by step"
 categories: ["coding", "architecture"]
 
-help_prompt_description: "Start an 'evil brainstorming' about what could go wrong with your application, from a security perspective. The AI will stop after each category to ask you for corrections and additions"
+help_prompt_description: "Start an 'evil brainstorming' about what could go wrong with your application, from a security perspective. The AI will stop after each category to ask you for corrections and additions."
 help_user_input: "Provide a description of the architecture and/or the user flow."
 
 ---
