@@ -6,6 +6,7 @@ categories: ["analysis"]
 type: "cards"
 
 help_prompt_description: "Break down a larger requirement into smaller work packages"
+help_user_input: "Describe the requirement you want to break down"
 
 ---
 You are a member of a software engineering team and are assisting me in requirements analysis.
