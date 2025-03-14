@@ -24,7 +24,7 @@ Do not pull out cross-functional or non-functional requirements into separate wo
 
 ~This is the application we're working on, as context:~
 
-{context}
+{domain}
 
 ~Here is the description of the requirement I want to break down:~
 

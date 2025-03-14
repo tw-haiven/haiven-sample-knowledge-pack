@@ -30,7 +30,7 @@ I want you to help me brainstorm scenarios in multiple categories according to t
 
 ~High level description of our architecture as general context:~
 
-{context}
+{architecture}
 
 ~Application properties relevant to threat modelling:~
 

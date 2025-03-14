@@ -50,7 +50,7 @@ Finally, warn me that I should do my own research and sanity checking of these s
 -----
 APPLICATION DESCRIPTION:
 
-{context}
+{architecture}
 
 {user_input}
 
