@@ -32,7 +32,7 @@ You continue the analysis and break down the functionality into user stories. Wh
 
 ~Product application:~
 
-{domain}
+{context}
 
 ~Feature:~
 
